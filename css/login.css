@@ -1,0 +1,14 @@
+/* LOGIN STYLES */
+.remember{
+display:flex;
+}
+.remember.flex-container-2{
+align-items: center;
+justify-content:space-between;
+}
+.remember.flex-container-2>*{
+flex-basis:auto;
+}
+.remember.flex-container-2 a{
+color:#000;
+}
